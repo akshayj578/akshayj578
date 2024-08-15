@@ -5,8 +5,8 @@
 - 📫 ig-akshay.3136
 - EMail ID-akshayvainsh192@gmail.com
 - 
-- 😄 Pronouns:capt.budweiser
-- ⚡ Fun fact:You are my friend now.
+- 😄 Pronouns:he/him
+- ⚡ Fun fact:You are my friend now!!
 
 <!---
 akshayj578/akshayj578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
