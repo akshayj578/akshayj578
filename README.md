@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and Web development.
 - 💞️ I’m looking to collaborate on projects that simplify our lives.
 - 📫 ig-akshay.3136
-- EMail ID-akshayvainsh192@gmail.com
+- EMailID-akshayvainsh192@gmail.com
 - 
 - 😄 Pronouns:he/him
 - ⚡ Fun fact:You are my friend now!!
