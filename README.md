@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshayvainsh
 - 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning C and Web development.
+- 🌱 I’m currently learning Web Development and DSA.
 - 💞️ I’m looking to collaborate on projects that simplify our lives.
 - 📫 ig-akshay.3136
 - EMailID-akshayvainsh192@gmail.com
